@@ -1,0 +1,179 @@
+organizational_culture: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present No
+
+  Question:
+  Organizational culture is refers to the shared values, beliefs, norms, and practices within an organization that influence the behavior of its members. Is the lack of organizational culture one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+operational_processes: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Operational processes refer to the systems, procedures, and practices that govern day-to-day operations within an organization, particularly those that directly affect safety and performance. Is the operational process issue one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+resource_management: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Resource management refers to how effectively an organization allocates, utilizes, and manages its resources—such as personnel, equipment, time, and information—to support safe, efficient, and effective operations. Is the resource management problem one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+inadequate_supervision: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Inadequate Supervision is a category under Supervisory Failures that refers to situations where leadership or management fail to provide the necessary oversight, guidance, or resources for personnel to perform their tasks safely and effectively. Is the inadequate supervision one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+planned_inappropriate_operations: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Planned inappropriate operations refers to situations where supervisors or management deliberately plan, approve, or allow operational strategies, policies, or schedules that increase the likelihood of human error or unsafe actions. Is the planned inappropriate operations one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+failure_to_correct_known_problems: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Is the failure to correct known problems one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+supervisory_violation: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Supervisory violation refers to These violations occur when supervisors or managers willfully disregard rules, policies, or standard operating procedures (SOPs), knowingly creating unsafe conditions. Is the supervisory violation one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+physical_environment_factors: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Are physical environment factors like wind, rain, or snow contributing factors to this accident?
+
+  Context:
+  {context}
+
+tools_and_technology_issues: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Tools and technology issues refers to failures, limitations, or inadequacies in equipment, software, automation, or technological systems that contribute to human errors or unsafe behaviors. Are tools or technology issues contributing factors to this accident?
+
+  Context:
+  {context}
+
+operational_process_failures: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Operational process failures involve flaws or inefficiencies in standard operating procedures (SOPs), workflows, or mission execution that contribute to human errors and unsafe conditions. Is the operational process one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+communication_coordination_planning_failures: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Communication Failures: Misunderstandings, incomplete information, or unclear messages on. Coordination Issues – Poor teamwork, unclear role assignments, or failure to synchronize tasks. Poor Planning or Preparation – Inadequate risk assessment, lack of contingency planning, or unrealistic scheduling. Are communication, coordination, or planning problems contributing factors to this accident?
+
+  Context:
+  {context}
+
+fit_for_duty: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Is not being fit for duty or responsibility one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+mental_problems: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Mental problems refer to These factors refer to cognitive, emotional, or psychological conditions that impact an operator's ability to perform safely and effectively. Are mental state or mental problems one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+physiological_state: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Physiological state is pilot's physical condition like Fatigue & Sleep Deprivation, Effects of Medication or Substance Use and everything related to physical condition. Is the physiological state one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+physical_mental_limitations: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Physical or mental limitations refer to biological or physiological constraints like hearing or vision. Are physical or mental limitations one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+decision_error: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Is decision error or making a wrong decision one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+skill_based_errors: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Skill-based errors occur when an individual inadvertently fails to perform a well-practiced task correctly due to slips, lapses, or motor coordination failures. Are skill-based errors contributing factors to this accident?
+
+  Context:
+  {context}
+
+perceptual_error: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Perceptual error is when an individual misinterprets sensory information. Is perceptual error one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+routine_violation: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Routine violation occurs when individuals habitually break rules or procedures because the deviation has become normalized over time and is often tolerated by the organization. Is routine violation one of the contributing factors to this accident?
+
+  Context:
+  {context}
+
+exceptional_violation: >
+  Use the context below to answer the question. The output must be YES or NO. No other information or comment must be present
+
+  Question:
+  Exceptional violations are rare, one-time rule violations that occur due to extreme circumstances, pressure, or urgent operational needs. Unlike routine violations, which are habitual and often tolerated, exceptional violations are not typical behaviors of the individual and usually happen under extraordinary conditions. Is exceptional error one of the contributing factors to this accident?
+
+  Context:
+  {context}
