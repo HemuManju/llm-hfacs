@@ -1,0 +1,103 @@
+organizational_influence: >
+  Using the helicopter accident report context below  to answer the question. The output must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Organizational influences, including culture, policies, and resource allocation, were contributing factors to this accident. Were organizational influences a contributing factor to this accident?
+
+  Context:
+  {context}
+
+organizational_influence_detailed: >
+  Using the helicopter accident report context below  to answer the question. The output must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Organizational influences, including culture, policies, and resource allocation, were contributing factors to this accident. The following report has been idenfied to have a organizational influence as a contributing to the accident. I want you to further answer the following questions:
+
+  1. Operational processes refer to the systems, procedures, and practices that govern day-to-day operations within an organization, particularly those that directly affect safety and performance. Is the operational process issue one of the contributing factors to this accident?"
+  2. Resource management refers to how effectively an organization allocates, utilizes, and manages its resources—such as personnel, equipment, time, and information—to support safe, efficient, and effective operations. Is the resource management problem one of the contributing factors to this accident?"
+  3. Operational culture referes to prevailing atmosphere/vision within the organization including such things as policies, command structure, and culture. Is operational culture one of the contributing factors to this accident?"
+
+  Think step by step for each question and then give the final answers.
+
+  Contex:
+  {context}
+
+supervisory_factors: >
+  Using the helicopter accident report context below to answer the question. The output must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Supervisory factors in the HFACS (Human Factors Analysis and Classification System) model refer to the actions, decisions, or oversights by supervisors that contribute to unsafe conditions or behaviors. Are supervisory factors contributing to this accident?
+
+  Context:
+  {context}
+
+supervisory_factors_detailed: >
+  Using the helicopter accident report context below to answer the question. The output must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Supervisory factors in the HFACS (Human Factors Analysis and Classification System) model refer to the actions, decisions, or oversights by supervisors that contribute to unsafe conditions or behaviors. The following report has been identified to have supervisory factors as contributing to the accident. I want you to further answer the following questions:
+
+  1. Inadequate supervision is a category under Supervisory Failures that refers to situations where leadership or management fail to provide the necessary oversight, guidance, or resources for personnel to perform their tasks safely and effectively. Is the inadequate supervision one of the contributing factors to this accident?
+  2. Planned inappropriate operations refers to situations where supervisors or management deliberately plan, approve, or allow operational strategies, policies, or schedules that increase the likelihood of human error or unsafe actions. Is the planned inappropriate operations one of the contributing factors to this accident?
+  3. Is the failure to correct known problems one of the contributing factors to this accident?
+  4. Supervisory violation refers to cases where supervisors or managers willfully disregard rules, policies, or standard operating procedures (SOPs), knowingly creating unsafe conditions. Is the supervisory violation one of the contributing factors to this accident?
+
+  Think step by step for each question and then give the final answers.
+
+  Context:
+  {context}
+
+preconditions_for_unsafe_acts: >
+  Using the helicopter accident report context below to answer the question. The output must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Preconditions for unsafe acts in the HFACS model are the underlying human conditions—like fatigue, stress, or poor communication—that set the stage for errors or violations to occur. Are preconditions for unsafe acts one of the reasons for this accident?
+
+  Context:
+  {context}
+
+preconditions_for_unsafe_acts_detailed: >
+  Using the helicopter accident report context below to answer the question. The output must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Preconditions for unsafe acts in the HFACS model are the underlying human conditions—like fatigue, stress, or poor communication—that set the stage for errors or violations to occur. The following report has been identified to have preconditions for unsafe acts contributing to the accident. I want you to further answer the following questions:
+
+  1. Are physical environment factors like wind, rain, or snow contributing factors to this accident?
+  2. Are tools or technology issues contributing factors to this accident?
+  3. Is the operational process one of the contributing factors to this accident?
+  4. Are communication, coordination, or planning problems contributing factors to this accident?
+  5. Is not being fit for duty or responsibility one of the contributing factors to this accident?
+  6. Are mental state or mental problems one of the contributing factors to this accident?
+  7. Is the physiological state one of the contributing factors to this accident?
+  8. Are physical or mental limitations one of the contributing factors to this accident?
+
+  Think step by step for each question and then give the final answers.
+
+  Context:
+  {context}
+
+unsafe_acts: >
+  Using the helicopter accident report context below to answer the question. The output must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Unsafe acts in HFACS refer to actions like errors (e.g., misjudgments) or violations (e.g., bypassing safety rules) performed by individuals. Are unsafe acts the reason for this accident?
+
+  Context:
+  {context}
+
+unsafe_acts_detailed: >
+  Using the helicopter accident report context below to answer the question. The outputs must be YES or NO. No other information or comment must be present.
+
+  Question:
+  Unsafe acts in HFACS refer to actions like errors (e.g., misjudgments) or violations (e.g., bypassing safety rules) performed by individuals. The following report has been identified to have unsafe acts contributing to the accident. I want you to further answer the following questions.
+
+  1. Is decision error or making a wrong decision one of the contributing factors to this accident?
+  2. Are skill-based errors contributing factors to this accident?
+  3. Is perceptual error one of the contributing factors to this accident?
+  4. Is routine violation one of the contributing factors to this accident?
+  5. Is exceptional violation one of the contributing factors to this accident?
+
+  Think step by step for each question and then give the final answers.
+
+  Context:
+  {context}

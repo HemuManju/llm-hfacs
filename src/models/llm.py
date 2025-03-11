@@ -10,6 +10,7 @@ def get_response(gpt_model: str, context: str, prompt_template: str):
         llm = Ollama(
             model=gpt_model,  # Or your desired model
             base_url="http://10.203.13.225:11434",  # Replace with the remote host's IP address
+            request_timeout=500,
         )
 
         # Create a prompt template for unstructured markdown output
